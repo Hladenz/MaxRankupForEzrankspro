@@ -1,0 +1,12 @@
+name: MaxRankUp
+version: ${project.version}
+main: xyz.crystillizedprison.maxrankup.MaxRankUp
+api-version: 1.13
+depend: [EZRanksPro]
+authors: [Hladenz]
+description: MaxRankUp Plugin for Crp
+website: crystillizedprison.xyz
+commands:
+  Maxrankup:
+    usage: /<command>
+    description: Rank until you hit Z or run out of money
